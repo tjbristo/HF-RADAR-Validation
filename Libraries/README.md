@@ -9,4 +9,4 @@ These libraries are for the following devices
 - WalterESP32
 - MPU6050 IMU
 
-All libraries are meant to be used for the ArduinoIDE, and can be downloaded then directly dropped into your local Arduino libraries folder. Once you have the libraries the code should work properly.
+All libraries are meant to be used in the ArduinoIDE, and can be downloaded then directly dropped into your local Arduino libraries folder. Once you have the libraries the code should work properly.
