@@ -1,4 +1,4 @@
-#include <Adafruit_MPU6050.h>
+#include <Adafruit_MPU6050_0x98.h>
 #include <Adafruit_Sensor.h>
 #include <Wire.h>
 

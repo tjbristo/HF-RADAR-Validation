@@ -1,5 +1,5 @@
 // Demo for getting individual unified sensor data from the MPU6050
-#include <Adafruit_MPU6050.h>
+#include <Adafruit_MPU6050_0x98.h>
 
 Adafruit_MPU6050 mpu;
 Adafruit_Sensor *mpu_temp, *mpu_accel, *mpu_gyro;
